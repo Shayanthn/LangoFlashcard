@@ -37,8 +37,4 @@ Whether you're learning French, Arabic, Japanese, or Farsi, **Lango** adapts to 
 - All data stored locally (no servers, no tracking)
 - JSON-based storage makes backup, edit, and migration easy
 
----
-
-## 📁 File & Folder Structure
-
-ساشغشد
+shayan Taherkhani
